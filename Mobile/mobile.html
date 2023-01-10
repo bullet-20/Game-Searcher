@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile games</title>
+    <link rel="stylesheet" href="mobile-style.css">
+  </head>
+  <body>
+    <h1>Mobile Games Searcher</h1>
+    <div id="search-form" style="position: absolute; top: 20px; right: 20px;">
+      <form>
+        <div id="search-input-container">
+          <input type="text" id="search-input" name="search-input" placeholder="Search for a game...">
+          <button id="genre-button" type="button">Genre</button>
+        </div>
+        <div id="genre-select-container" style="display: none;">
+          <select id="genre-select" name="genre-select">
+            <option value="all">All</option>
+            <option value="action">Action</option>
+            <option value="adventure">Adventure</option>
+            <option value="role-playing">Role-playing</option>
+            <option value="strategy">Strategy</option>
+            <option value="Racing">Racing</option>
+            <option value="simulation">Simulation</option>
+            <option value="MOBA">MOBA</option>
+            <option value="sports">Sports</option>
+            <option value="fps">FPS</option>
+            <option value="survival">Survival</option>
+            <option value="Battle royale">Battle royale</option>
+          </select>
+          <button id="search-button" type="submit">Close</button>
+        </div>
+      </form>
+    </div>
+    <div id="results"></div>
+  </body>
+  <script src="app.js"></script>
+  <script src="close-button.js"></script>
+</html>

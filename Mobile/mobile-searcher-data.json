@@ -1,0 +1,225 @@
+[
+  {
+    "name": "Fortnite",
+    "genre": "Action, Adventure, Battle royale, Survival",
+    "platform": "Android, iOS",
+    "description": "Fortnite is a popular battle royale game where players fight to be the last person standing. It features intense action and a large, interactive environment to explore.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Fortnite_logo.png/250px-Fortnite_logo.png",
+    "url": "https://www.epicgames.com/fortnite/en-US/mobile/android/device-support"
+    },
+    
+    {
+    "name": "Arena of Valor",
+    "genre": "Action, Adventure, MOBA",
+    "platform": "Android, iOS",
+    "description": "Arena of Valor is a popular MOBA game where players team up to fight against other players in fast-paced matches. It features a variety of characters with unique abilities and strategies.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Arena_of_Valor_Logo.png/250px-Arena_of_Valor_Logo.png",
+    "url": "https://www.arenaofvalor.com/"
+    },
+    
+    {
+    "name": "Clash of Clans",
+    "genre": "Strategy, Simulation",
+    "platform": "Android, iOS",
+    "description": "Clash of Clans is a popular strategy game where players build and defend their own village while attacking other players. It features a variety of buildings, troops, and defenses to choose from.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Clash_of_Clans_2013_logo.png/250px-Clash_of_Clans_2013_logo.png",
+    "url": "https://www.supercell.com/games/clashofclans"
+    },
+    
+    {
+    "name": "PlayerUnknown's Battlegrounds",
+    "genre": "Action, Adventure, Battle royale, Survival, FPS",
+    "platform": "Android, iOS",
+    "description": "PlayerUnknown's Battlegrounds is a popular battle royale game where players fight to be the last person standing on a large, deserted island. It features realistic weapons and a variety of vehicles to use.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/PlayerUnknown%27s_Battlegrounds_logo.png/250px-PlayerUnknown%27s_Battlegrounds_logo.png",
+    "url": "https://www.pubgmobile.com/"
+    },
+    {
+      "name": "Final Fantasy XV: A New Empire",
+      "genre": "Action, Adventure, Role-playing, Strategy",
+      "platform": "Android, iOS",
+  "description": "Final Fantasy XV: A New Empire is a mobile game set in the Final Fantasy XV universe. Players build and defend their own kingdom while working with other players to defeat enemies and complete quests.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Final_Fantasy_XV_A_New_Empire_Logo.png/250px-Final_Fantasy_XV_A_New_Empire_Logo.png",
+  "url": "https://www.finalfantasyxvapp.com/"
+  },
+  {
+  "name": "Roblox",
+  "genre": "Action, Adventure, Role-playing, Simulation",
+  "platform": "Android, iOS",
+  "description": "Roblox is a popular platform that allows players to create and play a variety of games. It features a wide range of genres, including action, adventure, role-playing, and simulation, and allows players to be creative and explore their imagination.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Roblox_logo.png/250px-Roblox_logo.png",
+  "url": "https://www.roblox.com/"
+  },
+      
+  {
+  "name": "NBA 2K Mobile",
+  "genre": "Sports, Simulation",
+  "platform": "Android, iOS",
+  "description": "NBA 2K Mobile is a basketball game that allows players to build and manage their own team. It features realistic gameplay and allows players to compete against each other in various modes.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/NBA_2K_Mobile_Logo.png/250px-NBA_2K_Mobile_Logo.png",
+  "url": "https://www.2k.com/games/nba-2k-mobile/"
+  },
+      
+  {
+  "name": "Call of Duty: Mobile",
+  "genre": "Action, Adventure, FPS, Survival",
+  "platform": "Android, iOS",
+  "description": "Call of Duty: Mobile is a first-person shooter game that allows players to engage in fast-paced, tactical gameplay. It features a variety of modes, including multiplayer, battle royale, and zombie survival, and a variety of weapons and perks to unlock and customize.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Call_of_Duty_Mobile_Logo.png/250px-Call_of_Duty_Mobile_Logo.png",
+  "url": "https://www.callofduty.com/mobile"
+  },
+  {
+  "name": "AdventureQuest 3D",
+  "genre": "Action, Adventure, Role-playing, Strategy",
+  "platform": "Android, iOS",
+  "description": "AdventureQuest 3D is a fantasy role-playing game that allows players to explore a vast world, complete quests, and battle against enemies. It features a variety of classes and skills to choose from and allows players to form parties and guilds with other players.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/AdventureQuest_3D_Logo.png/250px-AdventureQuest_3D_Logo.png",
+  "url": "https://www.aq3d.com/"
+  },
+        
+  {
+  "name": "Star Wars: Galaxy of Heroes",
+  "genre": "Action, Adventure, Role-playing, Strategy",
+  "platform": "Android, iOS",
+  "description": "Star Wars: Galaxy of Heroes is a role-playing game set in the Star Wars universe. Players collect and upgrade a variety of characters and battle against other players in turn-based combat. It features a variety of modes, including a single-player campaign and a variety of events and challenges.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Star_Wars%3A_Galaxy_of_Heroes_Logo.png/250px-Star_Wars%3A_Galaxy_of_Heroes_Logo.png",
+  "url": "https://www.ea.com/games/starwars/galaxy-of-heroes"
+  },
+        
+  {
+  "name": "The Sims Mobile",
+  "genre": "Simulation, Strategy",
+  "platform": "Android, iOS",
+  "description": "The Sims Mobile is a simulation game that allows players to create and manage their own virtual people, called Sims. Players can build and decorate their own homes, interact with other Sims, and complete a variety of activities and goals. It features a variety of customization options and allows players to form relationships and even start families with other Sims.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/The_Sims_Mobile_Logo.png/250px-The_Sims_Mobile_Logo.png",
+  "url": "https://www.thesims.com/en_US/mobile"
+  },
+  {
+  "name": "Mobile Legends: Bang Bang",
+  "genre": "Action, Adventure, MOBA",
+  "platform": "Android, iOS",
+  "description": "Mobile Legends: Bang Bang is a popular MOBA game where players team up to fight against other players in fast-paced matches. It features a variety of characters with unique abilities and strategies.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Mobile_Legends_Bang_Bang_Logo.png/250px-Mobile_Legends_Bang_Bang_Logo.png",
+  "url": "https://www.mobilelegends.com/"
+  },
+  {
+    "name": "Vainglory",
+    "genre": "Action, Adventure, MOBA",
+    "platform": "Android, iOS",
+    "description": "Vainglory is a popular MOBA game where players team up to fight against other players in fast-paced matches. It features a variety of characters with unique abilities and strategies.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Vainglory_logo.png/250px-Vainglory_logo.png",
+    "url": "https://www.vainglorygame.com/"
+   },
+  {
+  "name": "Heroes of Order & Chaos",
+  "genre": "Action, Adventure, MOBA",
+  "platform": "Android, iOS",
+  "description": "Heroes of Order & Chaos is a MOBA game where players team up to fight against other players in fast-paced matches. It features a variety of characters with unique abilities and strategies.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Heroes_of_Order_%26_Chaos_Logo.png/250px-Heroes_of_Order_%26_Chaos_Logo.png",
+  "url": "https://www.gameloft.com/en/game/heroes-of-order-chaos"
+  },
+  {
+    "name": "Brawl Stars",
+    "genre": "Action, Adventure, MOBA",
+    "platform": "Android, iOS",
+    "description": "Brawl Stars is a fast-paced MOBA game where players team up to fight against other players in a variety of game modes. It features a variety of characters with unique abilities and strategies.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Brawl_Stars_Logo.png/250px-Brawl_Stars_Logo.png",
+    "url": "https://www.brawlstars.com/"
+  },
+  {
+    "name": "Critical Ops",
+    "genre": "Action, Adventure, FPS",
+    "platform": "Android, iOS",
+    "description": "Critical Ops is a first-person shooter game that allows players to engage in fast-paced, tactical gameplay in a variety of modes, including multiplayer and bomb defusal. It features a variety of weapons and customization options and allows players to form teams and compete against each other.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Critical_Ops_Logo.png/250px-Critical_Ops_Logo.png",
+    "url": "https://www.criticalopsgame.com/"
+  },
+  {
+    "name": "Survival Heroes",
+    "genre": "Action, Adventure, Survival, MOBA",
+    "platform": "Android, iOS",
+    "description": "Survival Heroes is a survival game with elements of MOBA gameplay. Players must gather resources, craft items, and fight against both enemy players and wild creatures in order to be the last person standing on a deserted island. It features a variety of characters with unique abilities and strategies.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Survival_Heroes_Logo.png/250px-Survival_Heroes_Logo.png",
+    "url": "https://www.survivalheroes.com/"
+  },
+  {
+    "name": "The Witcher: Monster Slayer",
+    "genre": "Action, Adventure, Role-playing, Strategy",
+    "platform": "Android, iOS",
+    "description": "The Witcher: Monster Slayer is an augmented reality game set in the world of The Witcher series. Players become witchers and explore the real world, hunting and battling a variety of monsters using a variety of weapons and abilities. It features a single-player campaign and real-time multiplayer battles against other players.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/The_Witcher_Monster_Slayer_Logo.png/250px-The_Witcher_Monster_Slayer_Logo.png",
+    "url": "https://www.thewitchermonsterslayer.com/"
+  },
+  {
+    "name": "Asphalt 9: Legends",
+    "genre": "Racing",
+    "platform": "Android, iOS",
+    "description": "Asphalt 9: Legends is a high-speed racing game that allows players to race against each other in a variety of tracks and cars. It features a variety of modes, including single player, multiplayer, and time trials, and allows players to customize and upgrade their cars.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Asphalt_9_Legends_Logo.png/250px-Asphalt_9_Legends_Logo.png",
+    "url": "https://www.asphalt9legends.com/"
+  },
+  {
+    "name": "Real Racing 3",
+    "genre": "Racing",
+    "platform": "Android, iOS",
+    "description": "Real Racing 3 is a realistic racing game that allows players to race against each other in a variety of tracks and cars. It features a variety of modes, including single player, multiplayer, and time trials, and allows players to customize and upgrade their cars.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Real_Racing_3_Logo.png/250px-Real_Racing_3_Logo.png",
+    "url": "https://www.realracing3.com/"
+  },
+  {
+    "name": "F1 Mobile Racing",
+    "genre": "Racing",
+    "platform": "Android, iOS",
+    "description": "F1 Mobile Racing is a racing game based on the Formula 1 World Championship. It allows players to race against each other in a variety of tracks and cars and features a variety of modes, including single player, multiplayer, and time trials. It also allows players to customize and upgrade their cars.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/F1_Mobile_Racing_Logo.png/250px-F1_Mobile_Racing_Logo.png",
+    "url": "https://www.f1mobile.com/"
+  },
+  {
+    "name": "Need for Speed: No Limits",
+    "genre": "Racing",
+    "platform": "Android, iOS",
+    "description": "Need for Speed: No Limits is a high-speed racing game that allows players to race against each other in a variety of tracks and cars. It features a variety of modes, including single player, multiplayer, and time trials, and allows players to customize and upgrade their cars.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Need_for_Speed_No_Limits_Logo.png/250px-Need_for_Speed_No_Limits_Logo.png",
+    "url": "https://www.needforspeed.com/nolimits"
+  },
+  {
+    "name": "Dr. Driving",
+    "genre": "Racing",
+    "platform": "Android, iOS",
+    "description": "Dr. Driving is a racing game that focuses on realistic driving physics and challenges players to complete various missions and tasks. It features a variety of cars and customization options and allows players to compete against each other in multiplayer mode.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Dr._Driving_Logo.png/250px-Dr._Driving_Logo.png",
+    "url": "https://www.drdriving.net/"
+  },
+  {
+    "name": "Traffic Rider",
+    "genre": "Racing",
+    "platform": "Android, iOS",
+    "description": "Traffic Rider is a racing game that focuses on fast-paced, high-speed motorcycle racing. It allows players to race against each other in a variety of tracks and features a variety of motorcycles and customization options. It also includes a career mode and various challenges and missions to complete.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Traffic_Rider_Logo.png/250px-Traffic_Rider_Logo.png",
+    "url": "https://www.trafficridergame.com/"
+  },
+  {
+    "name": "Hill Climb Racing",
+    "genre": "Racing",
+    "platform": "Android, iOS",
+    "description": "Hill Climb Racing is a racing game that focuses on physics-based driving and challenges players to navigate through a variety of terrain types, including hills, mountains, and off-road environments. It features a variety of vehicles and customization options and allows players to compete against each other in multiplayer mode.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Hill_Climb_Racing_Logo.png/250px-Hill_Climb_Racing_Logo.png",
+    "url": "https://www.hillclimbracing.com/"
+  },
+  {
+    "name": "GRID Autosport",
+    "genre": "Racing",
+    "platform": "Android, iOS",
+    "description": "GRID Autosport is a realistic racing game that allows players to race against each other in a variety of tracks and cars. It features a variety of modes, including single player, multiplayer, and time trials, and allows players to customize and upgrade their cars. It is known for its realistic handling and physics.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/GRID_Autosport_Logo.png/250px-GRID_Autosport_Logo.png",
+    "url": "https://www.gridautosport.com/"
+  },
+  {
+    "name": "Mad Skills Motocross 2",
+    "genre": "Racing",
+    "platform": "Android, iOS",
+    "description": "Mad Skills Motocross 2 is a fast-paced, physics-based motocross game that allows players to race against each other in a variety of tracks and motorcycles. It features a variety of game modes, including single player, multiplayer, and time trials, and allows players to customize and upgrade their motorcycles.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Mad_Skills_Motocross_2_Logo.png/250px-Mad_Skills_Motocross_2_Logo.png",
+    "url": "https://www.madskillsmotocross2.com/"
+  }
+]

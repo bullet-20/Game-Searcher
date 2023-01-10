@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Fortnite",
+    "genre": "Action, Battle royale, FPS",
+    "platform": "PC, Xbox, PlayStation",
+    "description": "Fortnite is a battle royale game developed by Epic Games. Players can choose to play solo, in a duo, or in a squad, and must fight to be the last player or team standing. The game features a variety of weapons and abilities, and players can also build structures to help defend themselves or attack enemies.",
+    "image": "https://cdn.discordapp.com/attachments/1060331436672045086/1060332506378932234/174856_2_1_1.jpg",
+    "url": "https://www.epicgames.com/fortnite"
+  },
+  {
+
+    "name": "Apex Legends",
+    "genre": "Action, FPS",
+    "platform": "PC, Xbox, PlayStation",
+    "description": "Apex Legends is a battle royale game developed by Respawn Entertainment. Players can choose from a roster of unique characters, each with their own abilities, and must work together to be the last team standing. The game features a variety of weapons and items, and players can also use their abilities to gain an advantage in combat.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/Apex_legends_cover.jpg",
+    "url": "https://www.ea.com/games/apex-legends"
+  },
+  {
+    "name": "Call of Duty: Modern Warfare",
+    "genre": "Action, FPS",
+    "platform": "PC, Xbox, PlayStation",
+    "description": "Call of Duty: Modern Warfare is a first-person shooter developed by Infinity Ward. Players can choose to play a variety of multiplayer modes, or they can play through the single-player campaign. The game features a variety of weapons and equipment, and players can also use a range of abilities to gain an advantage in combat.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Call_of_Duty_Modern_Warfare_%282019%29_cover.jpg",
+    "url": "https://www.activision.com/games/call-of-duty/modern-warfare"
+  },
+  {
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "genre": "Adventure, Action, Role-playing",
+    "platform": "Nintendo Switch",
+    "description": "The Legend of Zelda: Breath of the Wild is an open-world adventure game developed by Nintendo. Players control Link, a hero tasked with saving the kingdom of Hyrule, and must explore the vast game world, solve puzzles, and defeat enemies to progress. The game features a variety of weapons and abilities, and players can also cook and craft items to help them on their journey.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+    "url": "https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/"
+  },
+  {
+    "name": "Minecraft",
+    "genre": "Adventure, Action, Survival, Simulation",
+    "platform": "PC, Xbox, PlayStation, Nintendo Switch",
+    "description": "Minecraft is a sandbox game developed by Mojang. Players can explore, build, and survive in a blocky world made up of different materials. The game features a variety of tools and items, and players can also craft and build structures, mine for resources, and fight off enemies.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
+    "url": "https://www.minecraft.net/"
+  },
+  {
+    "name": "Overwatch",
+    "genre": "Action",
+    "platform": "PlayStation 4, Xbox One, PC",
+    "description": "Overwatch is a team-based first-person shooter game in which players choose from a roster of unique heroes and work together to defend their team's objectives and defeat the enemy team. The game features a variety of game modes and maps, and has a strong focus on teamwork and strategic play. Overwatch has become a popular eSport and has won numerous awards for its design and gameplay.",
+   "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Overwatch_cover_art.jpg",
+    "url": "https://playoverwatch.com/"
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "genre": "Action, Adventure",
+    "platform": "PlayStation 4, Xbox One, PC",
+    "description": "Red Dead Redemption 2 is an action-adventure game set in an open world environment. The game follows the story of Arthur Morgan, an outlaw in the Van der Linde gang. Players can interact with the world and its inhabitants in a variety of ways, including completing missions, hunting and fishing, and engaging in shootouts with rival gangs and law enforcement. The game features stunning visuals and a compelling narrative that has earned it numerous awards and accolades.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
+    "url": "https://www.rockstargames.com/reddeadredemption2/"
+  },
+  { 
+    "name": "Grand Theft Auto V",
+    "genre": "Action",
+    "platform": "PC, Xbox, PlayStation",
+    "description": "Grand Theft Auto V is an open-world action game developed by Rockstar North. Players control three different characters, each with their own storylines, and must complete missions and interact with the game world to progress. The game features a variety of weapons and vehicles, and players can also explore the city of Los Santos and participate in activities like racing and golf.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+    "url": "https://www.rockstargames.com/V/"
+  },
+  {
+    "name": "Doom Eternal",
+    "genre": "Action",
+    "platform": "PlayStation 4, Xbox One, PC",
+    "description": "Doom Eternal is a first-person shooter game set in a science fiction universe. The game follows the Doom Slayer, a demon-slaying warrior, as he battles against the forces of Hell. Players can explore levels, collect weapons and power-ups, and defeat a variety of demonic enemies using fast-paced combat and strategic gameplay. Doom Eternal has received praise for its challenging gameplay, fast-paced action, and immersive world.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Cover_Art_of_Doom_Eternal.png",
+    "url": "https://www.doom.com/en-us/eternal"
+  },
+  {
+    "name": "The Witcher 3: Wild Hunt",
+    "genre": "Action, Role playing",
+    "platform": "PlayStation 4, Xbox One, PC",
+    "description": " In this open-world game, players control Geralt of Rivia, a monster hunter known as a witcher, as he searches for his adopted daughter and battles against otherworldly forces.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg",
+    "url": "https://www.thewitcher.com/witcher3"
+  },
+  {
+    "name": "NBA 2K",
+    "genre": "Sports, Simulation",
+    "platform": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+    "description": "NBA 2K is a series of basketball simulation games that aim to replicate the experience of playing in the NBA. Players can create their own players, manage a team, and compete against other players online.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/NBA_2K23_cover_art.jpg",
+    "url": "https://www.2k.com/games/nba-2k22"
+  },
+  {
+    "name": "Valorant",
+    "genre": "FPS",
+    "platform": "PC",
+    "description": "Valorant is a tactical first-person shooter set in a futuristic world. Players choose from a roster of agents, each with their own unique abilities, and compete in 5v5 matches.",
+    "image": "https://cdn.discordapp.com/attachments/1060331436672045086/1060362233873436674/544px-Valorant_logo_-_pink_color_version.svg_1.png",
+    "url": "https://playvalorant.com/en-us/"
+  },
+  {
+    "name": "Starcraft II",
+    "genre": "Strategy",
+    "platform": "PC",
+    "description": "In Starcraft II, players choose to play as one of three different species and compete against each other in fast-paced, real-time strategy matches. Players must gather resources, build and manage their own armies, and devise strategies to outwit their opponents.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/20/StarCraft_II_-_Box_Art.jpg",
+    "url": "https://starcraft2.com/en-us/"
+  },
+  {
+    "name": "Civilization VI",
+    "genre": "Strategy",
+    "platform": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+    "description": "In Civilization VI, players control a civilization and guide it through different eras of history. Players must make strategic decisions, such as what technologies to research and what improvements to build, in order to advance their civilization and achieve victory.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Civilization_VI_cover_art.jpg",
+    "url": "https://www.civilization.com/"
+  },
+  {
+    "name": "League of Legends",
+    "genre": "MOBA",
+    "platform": "PC",
+    "description": "In League of Legends, players control a champion and team up with other players to destroy the enemy team's nexus, a structure located in their base. Players can choose from a roster of over 100 champions, each with their own unique abilities and playstyles.",
+    "image": "https://cdn.discordapp.com/attachments/1060331436672045086/1060361151948521482/unnamed_2_1.jpg",
+    "url": "https://www.leagueoflegends.com/en-us/?utm_source=riotbar&utm_medium=productcard%2Bwww.riotgames.com&utm_campaign=lol&utm_content=lol_keyart01"
+  },
+  {
+    "name": "BioShock",
+    "genre": "FPS, survival horror",
+    "platform": "PC, Xbox 360, PlayStation 3",
+    "description": "BioShock is a first-person shooter video game developed by Irrational Games and published by 2K Games. It was released in 2007 for Microsoft Windows, Xbox 360, and PlayStation 3. The game is set in an alternate history 1960, in which the player must explore the underwater city of Rapture, a failed utopia whose inhabitants have gained superpowers through genetic engineering. BioShock received critical acclaim for its storytelling, art direction, and gameplay, and it has sold over 4 million copies worldwide.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Bioshock_cover_art.png/220px-Bioshock_cover_art.png",
+    "url": "https://www.2k.com/games/bioshock/"
+  },
+  {
+    "name": "Halo: Combat Evolved",
+    "genre": "FPS",
+    "platform": "Xbox, PC, Mac OS X",
+    "description": "Halo: Combat Evolved is a first-person shooter video game developed by Bungie and published by Microsoft Game Studios. It was released in 2001 for the Xbox and later released for Microsoft Windows and Mac OS X. The game follows the story of Master Chief, a supersoldier who fights the alien Covenant during the human-Covenant war. Halo: Combat Evolved was a critical and commercial success, and it is considered one of the greatest video games of all time.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Halo-Combat_Evolved_Coverart.jpg/220px-Halo-Combat_Evolved_Coverart.jpg",
+    "url": "https://www.xbox.com/en-US/games/halo-combat-evolved-anniversary"
+  },
+  {
+    "name": "Dark Souls",
+    "genre": "Action, role-playing",
+    "platform": "PlayStation 3, Xbox 360, PC, PlayStation 4, Xbox One, Nintendo Switch",
+    "description": "Dark Souls is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. It was released in 2011 for PlayStation 3, Xbox 360, and later released for Microsoft Windows and various other platforms. The game is set in a world called Lordran, and the player character is an undead warrior who must journey through the world to link the fire and prolong the age of fire. Dark Souls is known for its challenging gameplay and dark atmosphere, and it has sold over 10 million copies worldwide.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Dark_Souls_Cover_Art.jpg/220px-Dark_Souls_Cover_Art.jpg",
+    "url": "https://www.bandainamcoent.com/games/dark-souls"
+  },
+  {
+    "name": "The Elder Scrolls V: Skyrim",
+    "genre": "Action role-playing game, open world",
+    "platform": "PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Nintendo Switch",
+    "description": "The Elder Scrolls V: Skyrim is an action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. It was released in 2011 for PC, PlayStation 3, and Xbox 360, and it was later released for PlayStation 4, Xbox One, and Nintendo Switch. The game is set in the fantasy world of Skyrim, and the player character is a Dragonborn, a being with the body of a mortal and the soul of a dragon. The Elder Scrolls V: Skyrim is known for its expansive open world and its modding community, and it has sold over 30 million copies worldwide.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Elder_Scrolls_V_Skyrim.png/220px-Elder_Scrolls_V_Skyrim.png",
+    "url": "https://www.bethesda.net/en/game/skyrim"
+  }
+  ]

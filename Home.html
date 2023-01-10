@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+    <div id="intro">Welcome to Game searcher</div>
+    <div id="message">Welcome to Game Searcher, Please Select a Platform to Search a Game</div>
+    <div id="platform-selector">
+      <input type="radio" name="platform" id="pc" checked>
+      <label for="pc" onclick="window.location='pc/pc.html'">PC/Laptop</label>
+      <input type="radio" name="platform" id="mobile">
+      <label for="mobile" onclick="window.location='Mobile/mobile.html'">Mobile</label>
+      <input type="radio" name="platform" id="console">
+      <label for="console" onclick="window.location='Console/console.html'">Console</label>
+    </div>
+    
+    <script>
+      window.onload = function() {
+        var intro = document.getElementById("intro");
+        intro.style.opacity = 1;
+        intro.style.top = "50px";
+      }
+    </script>
+  </body>
+</html>
